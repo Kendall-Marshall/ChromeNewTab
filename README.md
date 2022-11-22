@@ -1,4 +1,6 @@
-# my-app
+# Chrome New Tab
+
+### Custom New Tab Page for Chrome
 
 ## Project setup
 ```
